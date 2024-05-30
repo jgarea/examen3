@@ -1,6 +1,6 @@
 /**
  *
- * @author Juan
+ * @author Juan E
  */
 public class Examen {
 
