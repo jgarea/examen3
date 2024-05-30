@@ -4,7 +4,7 @@
  */
 public class Examen {
 
-// Propiedades de la Clase cuenta
+// Propiedades de la Clase cuentas
     public double dSaldo;
     public String nombre;
 
