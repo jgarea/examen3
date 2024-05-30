@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/persona/Desktop/examen/examen3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/persona/Desktop/examen/examen3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'examen3 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'examen3 1.0-SNAPSHOT API'
+examen3refactorizado
+C:\Users\persona\Desktop\examen\examen3\src\main\java = 1717086442350
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\allclasses-index.html = 1717087900503
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\allpackages-index.html = 1717087900508
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\copy.svg = 1717087900553
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\element-list = 1717087900434
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\help-doc.html = 1717087900546
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\index-all.html = 1717087900530
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\index.html = 1717087900537
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\link.svg = 1717087900555
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\member-search-index.js = 1717087900514
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\module-search-index.js = 1717087900510
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\overview-tree.html = 1717087900483
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\package-search-index.js = 1717087900511
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\script.js = 1717087900551
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\search-page.js = 1717087900561
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\search.html = 1717087900534
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\search.js = 1717087900559
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\stylesheet.css = 1717087900549
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\tag-search-index.js = 1717087900516
+C:\Users\persona\Desktop\examen\examen3\target\site\apidocs\type-search-index.js = 1717087900513
